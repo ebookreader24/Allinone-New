@@ -1,16 +1,7 @@
 <html lang="en">
 
-
-<!-- Mirrored from pokk4.z12.web.core.windows.net/werrx01USAHTML/?bcda=1-888-682-6149 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Nov 2024 20:55:15 GMT -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "n5to91ktz3");
-</script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-45WT49YJJJ"></script>
 <script>
@@ -20,6 +11,7 @@
 
   gtag('config', 'G-45WT49YJJJ');
 </script>
+
 	<meta charset="utf-8">
 	<meta content="width=device-width,initial-scale=1,shrink-to-fit=no" name="viewport">
 	<meta content="noindex,nofollow" name="robots">
